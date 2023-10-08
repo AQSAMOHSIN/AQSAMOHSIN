@@ -22,7 +22,9 @@
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-
+<!--Intro start-->
+- 🔭 I’m currently working on **React, React Native, Next js, Nodejs, MongoDB, Solidity, Python**
+- 
 - 🌱 I’m currently learning **Data Science**
 
 - ☁️ I've keen interest in Blockchain. So,I'm learning **Ethereum development 🚀**
