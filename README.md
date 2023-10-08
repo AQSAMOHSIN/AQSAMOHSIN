@@ -14,7 +14,7 @@
 
 <!--Intro start-->
 - 🔭 I’m currently working on **React, React Native, Next js, Nodejs, MongoDB, Solidity, Python**
-- 
+
 - 🌱 I’m currently learning **Data Science**
 
 - ☁️ I've keen interest in Blockchain. So,I'm learning **Ethereum development 🚀**
