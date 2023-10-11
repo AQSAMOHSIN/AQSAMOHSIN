@@ -14,14 +14,14 @@
 
 <!--Intro start-->
 - 🌎 A Software Engineer based in **Karachi, Pakistan** who's experienced in taking fullstack applications from scratch to production.
-- 🎓 I've recently graduated with a degree in **BS Computer Science and Information Technology** from NED University of Engineering and Technology
+- 🎓 Graduated with a degree in **BS Computer Science and Information Technology** from NED University of Engineering and Technology
 - 💻 [My Website](https://aqsa-mohsin.vercel.app/)
 - 🏠 Freelancer at [Upwork](https://www.upwork.com/freelancers/~0196704ccc2bbb71b6)
 - 🛠 Working as a Software Engineer at **Koderlabs**.
 - 🔭 I’m currently working on **React, React Native, Next js, Nodejs, MongoDB, Solidity, Python**
 - 🌱 I’m currently learning **Data Science**
-- ☁️ I've keen interest in Blockchain. So,I'm learning **Ethereum development 🚀**
-- 💬 Ask me about **React, React Native, Nodejs, MongoDB, Solidity, Python**
+- 🧊 I've keen interest in Blockchain. So,I'm learning **Ethereum development 🚀**
+- 🚀 Ask me about **React, React Native, Nodejs, MongoDB, Solidity, Python**
 - 📫 Feel free to reach me out [aqsa1704a@gmail.com](mailto:aqsa1704a@gmail.com) or [LinkedIn](https://www.linkedin.com/in/aqsa-mohsin-930bba209/)
 
 <!--Intro end-->
