@@ -12,6 +12,10 @@
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+<br><br>
+
 <!--Intro start-->
 - 🌎 A Software Engineer based in **Karachi, Pakistan** who's experienced in taking fullstack applications from scratch to production.
 - 🎓 Graduated with a degree in **BS Computer Science and Information Technology** from NED University of Engineering and Technology
