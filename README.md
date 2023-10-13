@@ -11,7 +11,7 @@
 	
 ## <picture><img src = "assets/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="assets/Right_Side.gif" width = 250px></picture>
 
 <!--Intro start-->
 - 🌎 A Software Engineer based in **Karachi, Pakistan** who's experienced in taking fullstack applications from scratch to production.
