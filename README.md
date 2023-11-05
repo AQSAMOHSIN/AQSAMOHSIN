@@ -23,7 +23,7 @@
 - 🌱 I’m currently learning **Data Science**
 - 🧊 I've keen interest in Blockchain. So,I'm learning **Ethereum development 🚀**
 - 🚀 Ask me about **React, React Native, Nodejs, MongoDB, Solidity, Python**
-- 📫 Feel free to reach me out [aqsa1704a@gmail.com](mailto:aqsa1704a@gmail.com) or [LinkedIn](https://www.linkedin.com/in/aqsa-mohsin-930bba209/)
+- 📫 Feel free to reach me out [aqsamohsin2002@gmail.com](mailto:aqsamohsin2002@gmail.com) or [LinkedIn](https://www.linkedin.com/in/aqsa-mohsin-930bba209/)
 
 <!--Intro end-->
 
